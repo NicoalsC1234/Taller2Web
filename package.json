@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Taller2.js",
+  "scripts": {
+    "start": "nodemon Taller2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nodemon": "^2.0.12"
+  }
+}
